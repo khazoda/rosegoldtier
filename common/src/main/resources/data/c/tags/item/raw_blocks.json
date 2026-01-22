@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "#c:raw_blocks/rose_gold",
+      "required": false
+    }
+  ]
+}

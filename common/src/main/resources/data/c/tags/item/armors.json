@@ -1,0 +1,21 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "rosegoldtier:rose_gold_helmet",
+      "required": false
+    },
+    {
+      "id": "rosegoldtier:rose_gold_chestplate",
+      "required": false
+    },
+    {
+      "id": "rosegoldtier:rose_gold_leggings",
+      "required": false
+    },
+    {
+      "id": "rosegoldtier:rose_gold_boots",
+      "required": false
+    }
+  ]
+}

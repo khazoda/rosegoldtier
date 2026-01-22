@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "rosegoldtier:rose_gold_nugget",
+      "required": false
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "rosegoldtier:tools_knife",
+      "required": false
+    }
+  ]
+}

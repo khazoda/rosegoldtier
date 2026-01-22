@@ -1,0 +1,42 @@
+{
+  "type": "minecraft:smelting",
+  "category": "misc",
+  "cookingtime": 200,
+  "experience": 0.1,
+  "group": "rose_gold_nugget_from_smelting",
+  "ingredient": [
+    {
+      "item": "rosegoldtier:rose_gold_pickaxe"
+    },
+    {
+      "item": "rosegoldtier:rose_gold_shovel"
+    },
+    {
+      "item": "rosegoldtier:rose_gold_axe"
+    },
+    {
+      "item": "rosegoldtier:rose_gold_hoe"
+    },
+    {
+      "item": "rosegoldtier:rose_gold_sword"
+    },
+    {
+      "item": "rosegoldtier:rose_gold_helmet"
+    },
+    {
+      "item": "rosegoldtier:rose_gold_chestplate"
+    },
+    {
+      "item": "rosegoldtier:rose_gold_leggings"
+    },
+    {
+      "item": "rosegoldtier:rose_gold_boots"
+    },
+    {
+      "item": "rosegoldtier:rose_gold_horse_armor"
+    }
+  ],
+  "result": {
+    "id": "rosegoldtier:rose_gold_nugget"
+  }
+}

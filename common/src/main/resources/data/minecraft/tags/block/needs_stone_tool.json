@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "rosegoldtier:rose_gold_blend_block",
+    "rosegoldtier:rose_gold_block",
+    "rosegoldtier:rose_gold_door",
+    "rosegoldtier:rose_gold_trapdoor"
+  ]
+}
