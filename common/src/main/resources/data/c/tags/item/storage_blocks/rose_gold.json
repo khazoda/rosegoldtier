@@ -1,6 +1,13 @@
 {
   "replace": false,
   "values": [
-    "rosegoldtier:rose_gold_block"
+    {
+      "id": "rosegoldtier:rose_gold_block",
+      "required": false
+    },
+    {
+      "id": "wardentools:rose_gold_block",
+      "required": false
+    }
   ]
 }

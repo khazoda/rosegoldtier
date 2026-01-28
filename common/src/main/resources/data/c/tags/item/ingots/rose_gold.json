@@ -1,7 +1,13 @@
 {
   "replace": false,
   "values": [
-    "rosegoldtier:rose_gold_ingot",
-    "wardentools:rose_gold_ingot"
+    {
+      "id": "rosegoldtier:rose_gold_ingot",
+      "required": false
+    },
+    {
+      "id": "wardentools:rose_gold_ingot",
+      "required": false
+    }
   ]
 }

@@ -4,7 +4,7 @@
   "group": "rose_gold_ingot",
   "ingredients": [
     {
-      "item": "rosegoldtier:rose_gold_block"
+      "tag": "c:storage_blocks/rose_gold"
     }
   ],
   "result": {
