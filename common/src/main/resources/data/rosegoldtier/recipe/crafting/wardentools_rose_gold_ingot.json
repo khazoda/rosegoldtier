@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "group": "rose_gold_ingot",
+  "ingredients": [
+    {
+      "item": "rosegoldtier:rose_gold_block"
+    }
+  ],
+  "result": {
+    "count": 9,
+    "id": "wardentools:rose_gold_ingot"
+  },
+  "fabric:load_conditions": [
+    {
+      "condition": "fabric:all_mods_loaded",
+      "values": [
+        "wardentools"
+      ]
+    }
+  ],
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "wardentools"
+    }
+  ]
+}

@@ -1,21 +1,16 @@
 {
   "type": "minecraft:crafting_shaped",
-  "category": "equipment",
+  "category": "redstone",
   "key": {
     "#": {
-      "item": "minecraft:stick"
-    },
-    "X": {
       "tag": "c:ingots/rose_gold"
     }
   },
   "pattern": [
-    " X ",
-    "  X",
-    "#X "
+    "##"
   ],
   "result": {
     "count": 1,
-    "id": "rosegoldtier:rose_gold_sickle"
+    "id": "rosegoldtier:rose_gold_pressure_plate"
   }
 }

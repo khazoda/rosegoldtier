@@ -18,27 +18,18 @@
   "results": [
     {
       "count": 2,
-      "id": "rosegoldtier:rose_gold_ingot"
+      "id": "wardentools:rose_gold_ingot"
     }
   ],
   "fabric:load_conditions": [
     {
-      "condition": "fabric:and",
       "values": [
         {
           "condition": "fabric:all_mods_loaded",
           "values": [
-            "create"
+            "create",
+            "wardentools"
           ]
-        },
-        {
-          "condition": "fabric:not",
-          "value": {
-            "condition": "fabric:all_mods_loaded",
-            "values": [
-              "wardentools"
-            ]
-          }
         }
       ]
     }
@@ -52,11 +43,8 @@
           "modid": "create"
         },
         {
-          "type": "neoforge:not",
-          "value": {
-            "type": "neoforge:mod_loaded",
-            "modid": "wardentools"
-          }
+          "type": "neoforge:mod_loaded",
+          "modid": "wardentools"
         }
       ]
     }

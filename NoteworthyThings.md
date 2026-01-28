@@ -11,3 +11,4 @@
 #### Things added beyond initial scope:
 - Create mod integration for mixing, heating recipes etc.
 - Rose Gold Nugget
+- Rose Gold Ingot/Block conditional loading based on warden tools
