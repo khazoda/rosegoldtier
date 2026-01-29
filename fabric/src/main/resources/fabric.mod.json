@@ -17,6 +17,9 @@
     "entrypoints": {
         "main": [
             "com.khazoda.rosegoldtier.RoseGoldTierFabric"
+        ],
+        "client": [
+            "com.khazoda.rosegoldtier.RoseGoldTierFabricClient"
         ]
     },
     "mixins": [
