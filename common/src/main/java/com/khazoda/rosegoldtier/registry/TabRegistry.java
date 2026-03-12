@@ -42,6 +42,8 @@ public class TabRegistry {
             output.accept(MainRegistry.ROSE_GOLD_DOOR_ITEM.get());
             output.accept(MainRegistry.ROSE_GOLD_TRAPDOOR_ITEM.get());
             output.accept(MainRegistry.ROSE_GOLD_PRESSURE_PLATE_ITEM.get());
+            output.accept(MainRegistry.STEEL_BLEND.get());
+            output.accept(MainRegistry.STEEL_BLEND_BLOCK_ITEM.get());
           })
           .build());
 

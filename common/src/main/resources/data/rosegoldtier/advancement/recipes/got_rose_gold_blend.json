@@ -1,0 +1,28 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "got_rose_gold_blend": {
+      "conditions": {
+        "items": [
+          {
+            "items": "rosegoldtier:rose_gold_blend"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "requirements": [
+    [
+      "got_rose_gold_blend"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "rosegoldtier:smelting/wardentools_rose_gold_ingot_from_smelting_rose_gold_blend",
+      "rosegoldtier:smelting/wardentools_rose_gold_ingot_from_blasting_rose_gold_blend",
+      "rosegoldtier:smelting/rose_gold_ingot_from_smelting_rose_gold_blend",
+      "rosegoldtier:smelting/rose_gold_ingot_from_blasting_rose_gold_blend"
+    ]
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "got_steel_blend": {
+      "conditions": {
+        "items": [
+          {
+            "items": "rosegoldtier:steel_blend"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "requirements": [
+    [
+      "got_steel_blend"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "rosegoldtier:smelting/earlystage_steel_ingot_from_smelting_steel_blend",
+      "rosegoldtier:smelting/earlystage_steel_ingot_from_blasting_steel_blend"
+    ]
+  }
+}

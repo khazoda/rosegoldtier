@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "group": "steel_blend",
+  "ingredients": [
+    {
+      "item": "rosegoldtier:steel_blend_block"
+    }
+  ],
+  "result": {
+    "count": 9,
+    "id": "rosegoldtier:steel_blend"
+  }
+}

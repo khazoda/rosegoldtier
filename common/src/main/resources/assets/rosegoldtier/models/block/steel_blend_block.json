@@ -1,0 +1,6 @@
+{
+	"parent": "minecraft:block/cube_all",
+	"textures": {
+		"all": "rosegoldtier:block/steel_blend_block"
+	}
+}

@@ -1,0 +1,25 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "got_rose_gold_blend_block": {
+      "conditions": {
+        "items": [
+          {
+            "items": "rosegoldtier:rose_gold_blend_block"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "requirements": [
+    [
+      "got_rose_gold_blend_block"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "rosegoldtier:crafting/rose_gold_blend"
+    ]
+  }
+}

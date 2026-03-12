@@ -1,0 +1,25 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "got_raw_copper": {
+      "conditions": {
+        "items": [
+          {
+            "items": "minecraft:raw_copper"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "requirements": [
+    [
+      "got_raw_copper"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "rosegoldtier:crafting/rose_gold_blend_from_copper_and_gold"
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:smelting",
+  "category": "misc",
+  "cookingtime": 200,
+  "experience": 2.4,
+  "group": "steel_ingot",
+  "ingredient": {
+    "item": "rosegoldtier:steel_blend"
+  },
+  "result": {
+    "id": "earlystage:steel_ingot"
+  },
+  "fabric:load_conditions": [
+    {
+      "condition": "fabric:registry_contains",
+      "values": [
+        "earlystage:steel_ingot"
+      ],
+      "registry": "minecraft:item"
+    }
+  ],
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:item_exists",
+      "item": "earlystage:steel_ingot"
+    }
+  ]
+}

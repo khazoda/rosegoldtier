@@ -5,6 +5,7 @@
   "block.rosegoldtier.rose_gold_door": "Rose Gold Door",
   "block.rosegoldtier.rose_gold_trapdoor": "Rose Gold Trapdoor",
   "block.rosegoldtier.rose_gold_pressure_plate": "Rose Gold Pressure Plate",
+  "block.rosegoldtier.steel_blend_block": "Block of Steel Blend",
   "item.rosegoldtier.rose_gold_blend": "Rose Gold Blend",
   "item.rosegoldtier.rose_gold_nugget": "Rose Gold Nugget",
   "item.rosegoldtier.rose_gold_ingot": "Rose Gold Ingot",
@@ -18,6 +19,7 @@
   "item.rosegoldtier.rose_gold_shovel": "Rose Gold Shovel",
   "item.rosegoldtier.rose_gold_hoe": "Rose Gold Hoe",
   "item.rosegoldtier.rose_gold_horse_armor": "Rose Gold Horse Armor",
+  "item.rosegoldtier.steel_blend": "Steel Blend",
   "tag.item.c.rose_gold_ingots": "Rose Gold Ingots",
   "tag.item.c.rose_gold_nuggets": "Rose Gold Nuggets",
   "item.rosegoldtier.rose_gold_knife": "Rose Gold Knife"

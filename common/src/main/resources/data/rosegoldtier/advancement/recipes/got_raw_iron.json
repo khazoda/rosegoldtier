@@ -1,0 +1,25 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "got_raw_iron": {
+      "conditions": {
+        "items": [
+          {
+            "items": "minecraft:raw_iron"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "requirements": [
+    [
+      "got_raw_iron"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "rosegoldtier:crafting/steel_blend_from_iron_and_coal"
+    ]
+  }
+}
