@@ -8,7 +8,7 @@
         "${mod_author}"
     ],
     "contact": {
-        "homepage": "https://khazoda.com/#rosegoldtier",
+        "homepage": "https://modrinth.com/mod/rosegoldtier",
         "sources": "https://github.com/Khazoda/rosegoldtier"
     },
     "license": "${license}",
@@ -20,6 +20,9 @@
         ],
         "client": [
             "com.khazoda.rosegoldtier.RoseGoldTierFabricClient"
+        ],
+        "fabric-datagen": [
+            "com.khazoda.rosegoldtier.datagen.RGTDataGenerator"
         ]
     },
     "mixins": [
