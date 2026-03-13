@@ -1,13 +1,13 @@
 {
-  "type": "minecraft:block",
   "fabric:load_conditions": [
     {
       "condition": "fabric:not",
       "value": {
-        "condition": "fabric:all_mods_loaded",
+        "condition": "fabric:registry_contains",
         "values": [
-          "wardentools"
-        ]
+          "wardentools:rose_gold_block"
+        ],
+        "registry": "minecraft:item"
       }
     }
   ],
@@ -15,8 +15,8 @@
     {
       "type": "neoforge:not",
       "value": {
-        "type": "neoforge:mod_loaded",
-        "modid": "wardentools"
+        "type": "neoforge:item_exists",
+        "item": "wardentools:rose_gold_block"
       }
     }
   ],

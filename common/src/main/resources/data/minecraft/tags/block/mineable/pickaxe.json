@@ -2,6 +2,7 @@
   "replace": false,
   "values": [
     "rosegoldtier:rose_gold_blend_block",
+    "rosegoldtier:steel_blend_block",
     {
       "id": "rosegoldtier:rose_gold_block",
       "required": false
@@ -11,6 +12,7 @@
       "required": false
     },
     "rosegoldtier:rose_gold_door",
-    "rosegoldtier:rose_gold_trapdoor"
+    "rosegoldtier:rose_gold_trapdoor",
+    "rosegoldtier:rose_gold_pressure_plate"
   ]
 }
