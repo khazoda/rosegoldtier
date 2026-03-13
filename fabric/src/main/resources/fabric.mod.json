@@ -20,9 +20,6 @@
         ],
         "client": [
             "com.khazoda.rosegoldtier.RoseGoldTierFabricClient"
-        ],
-        "fabric-datagen": [
-            "com.khazoda.rosegoldtier.datagen.RGTDataGenerator"
         ]
     },
     "mixins": [

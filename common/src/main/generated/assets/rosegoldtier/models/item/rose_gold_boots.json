@@ -1,0 +1,68 @@
+{
+  "parent": "minecraft:item/generated",
+  "overrides": [
+    {
+      "model": "rosegoldtier:item/rose_gold_boots_quartz_armor_trim",
+      "predicate": {
+        "minecraft:trim_type": 0.1
+      }
+    },
+    {
+      "model": "rosegoldtier:item/rose_gold_boots_iron_armor_trim",
+      "predicate": {
+        "minecraft:trim_type": 0.2
+      }
+    },
+    {
+      "model": "rosegoldtier:item/rose_gold_boots_netherite_armor_trim",
+      "predicate": {
+        "minecraft:trim_type": 0.3
+      }
+    },
+    {
+      "model": "rosegoldtier:item/rose_gold_boots_redstone_armor_trim",
+      "predicate": {
+        "minecraft:trim_type": 0.4
+      }
+    },
+    {
+      "model": "rosegoldtier:item/rose_gold_boots_copper_armor_trim",
+      "predicate": {
+        "minecraft:trim_type": 0.5
+      }
+    },
+    {
+      "model": "rosegoldtier:item/rose_gold_boots_gold_armor_trim",
+      "predicate": {
+        "minecraft:trim_type": 0.6
+      }
+    },
+    {
+      "model": "rosegoldtier:item/rose_gold_boots_emerald_armor_trim",
+      "predicate": {
+        "minecraft:trim_type": 0.7
+      }
+    },
+    {
+      "model": "rosegoldtier:item/rose_gold_boots_diamond_armor_trim",
+      "predicate": {
+        "minecraft:trim_type": 0.8
+      }
+    },
+    {
+      "model": "rosegoldtier:item/rose_gold_boots_lapis_armor_trim",
+      "predicate": {
+        "minecraft:trim_type": 0.9
+      }
+    },
+    {
+      "model": "rosegoldtier:item/rose_gold_boots_amethyst_armor_trim",
+      "predicate": {
+        "minecraft:trim_type": 1.0
+      }
+    }
+  ],
+  "textures": {
+    "layer0": "rosegoldtier:item/rose_gold_boots"
+  }
+}
